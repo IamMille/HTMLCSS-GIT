@@ -1,2 +1,4 @@
 Hello from Cygwin VIM!
-Hi from webbrowser Chrome.
+Hi from webbrowser Chrome
+
+This is THE EDIT FROM ALOCAL-BRANCH!
